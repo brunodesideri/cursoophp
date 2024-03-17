@@ -8,8 +8,9 @@
 <body>
     <h1>Exemplo PHP</h1>
     <?php
-    $nome = "Bruno Desideri";
-    echo "<p> O meu nome é $nome </p>"
+    $nome = "Bruno";
+    $sobrenome = "Desideri";
+    echo "O meu nome é $nome " . "$sobrenome";
     ?>
 </body>
 </html>
