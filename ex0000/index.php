@@ -10,7 +10,8 @@
     <?php
     $nome = "Bruno";
     $sobrenome = "Desideri";
-    echo "O meu nome é $nome " . "$sobrenome";
+    const PAIS = "Brasil";
+    echo "O meu nome é: $nome $sobrenome! Eu moro no " . PAIS;
     ?>
 </body>
 </html>
