@@ -14,6 +14,9 @@
     echo "! "; 
     echo " <br> "; 
     echo "$nome \"Minotauro\" $sobrenome";
+    $calculo = "2" + "2";
+    echo "$calculo";
+
     ?>
 </body>
 </html>

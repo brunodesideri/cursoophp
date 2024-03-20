@@ -12,8 +12,8 @@
     </header>
     <main>
         <?php 
-        $nome = $_GET["nome"] ?? "sem nome";
-        $sobrenome = $_GET["sobrenome"] ?? "desconhecido";
+        $nome = $_GET["nome"] ?? "ERROR";
+        $sobrenome = $_GET["sobrenome"] ?? "ERROR";
         echo "<p>Olá <strong>$nome</strong>, tudo certo?</p>";
         echo "<p>O seu sobrenome é <strong>$sobrenome</strong>?</p>";
         ?>
