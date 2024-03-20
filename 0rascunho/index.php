@@ -11,7 +11,7 @@
     $sobrenome = "Nogueira";
     const NOME = "Bruno";
     echo "Olá\u{1F596}, ".NOME;
-    echo "! <br>"; 
+    echo "! "; 
     echo " <br> "; 
     echo "$nome \"Minotauro\" $sobrenome";
     ?>
