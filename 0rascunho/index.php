@@ -15,8 +15,9 @@
     echo " <br> "; 
     echo "$nome \"Minotauro\" $sobrenome";
     $calculo = "2" + "2";
-    echo "$calculo";
-
+    $oi = sqrt(3);
+    echo "$oi";
+    
     ?>
 </body>
 </html>
