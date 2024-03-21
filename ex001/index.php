@@ -6,7 +6,7 @@
     <title>Dados do Servidor</title>
 </head>
 <body>
-    <h1>Dados do Servidor</h1>
+    <h1>Dados do Server</h1>
     <?php
     phpinfo()    
     ?>
